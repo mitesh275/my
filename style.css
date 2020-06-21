@@ -132,4 +132,13 @@ footer {
 }
 div {
 	background-color: #fff;
+}
+.p2 {
+	display: flex;
+	border-bottom: 1px solid black;
+}
+.p_3 img {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 100px;
 }	
